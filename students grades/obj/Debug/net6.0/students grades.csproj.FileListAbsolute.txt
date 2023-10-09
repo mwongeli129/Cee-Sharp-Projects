@@ -1,0 +1,15 @@
+C:\Users\User\Cee-Sharp-Projects\students grades\bin\Debug\net6.0\students grades.exe
+C:\Users\User\Cee-Sharp-Projects\students grades\bin\Debug\net6.0\students grades.deps.json
+C:\Users\User\Cee-Sharp-Projects\students grades\bin\Debug\net6.0\students grades.runtimeconfig.json
+C:\Users\User\Cee-Sharp-Projects\students grades\bin\Debug\net6.0\students grades.dll
+C:\Users\User\Cee-Sharp-Projects\students grades\bin\Debug\net6.0\students grades.pdb
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.csproj.AssemblyReference.cache
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.AssemblyInfoInputs.cache
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.AssemblyInfo.cs
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.csproj.CoreCompileInputs.cache
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.dll
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\refint\students grades.dll
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.pdb
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\students grades.genruntimeconfig.cache
+C:\Users\User\Cee-Sharp-Projects\students grades\obj\Debug\net6.0\ref\students grades.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\bin\Debug\net6.0\inventory for ship products.exe
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\bin\Debug\net6.0\inventory for ship products.deps.json
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\bin\Debug\net6.0\inventory for ship products.runtimeconfig.json
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\bin\Debug\net6.0\inventory for ship products.dll
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\bin\Debug\net6.0\inventory for ship products.pdb
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.csproj.AssemblyReference.cache
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.AssemblyInfoInputs.cache
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.AssemblyInfo.cs
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.csproj.CoreCompileInputs.cache
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.dll
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\refint\inventory for ship products.dll
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.pdb
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\inventory for ship products.genruntimeconfig.cache
+C:\Users\User\Cee-Sharp-Projects\inventory for ship products\obj\Debug\net6.0\ref\inventory for ship products.dll

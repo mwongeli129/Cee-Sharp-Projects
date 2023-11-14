@@ -1,0 +1,15 @@
+C:\Users\User\Cee-Sharp-Projects\switch statements\bin\Debug\net6.0\switch statements.exe
+C:\Users\User\Cee-Sharp-Projects\switch statements\bin\Debug\net6.0\switch statements.deps.json
+C:\Users\User\Cee-Sharp-Projects\switch statements\bin\Debug\net6.0\switch statements.runtimeconfig.json
+C:\Users\User\Cee-Sharp-Projects\switch statements\bin\Debug\net6.0\switch statements.dll
+C:\Users\User\Cee-Sharp-Projects\switch statements\bin\Debug\net6.0\switch statements.pdb
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.csproj.AssemblyReference.cache
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.AssemblyInfoInputs.cache
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.AssemblyInfo.cs
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.csproj.CoreCompileInputs.cache
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.dll
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\refint\switch statements.dll
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.pdb
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\switch statements.genruntimeconfig.cache
+C:\Users\User\Cee-Sharp-Projects\switch statements\obj\Debug\net6.0\ref\switch statements.dll
